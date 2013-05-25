@@ -1,0 +1,12 @@
+
+U programskom rješenju smo koristi Eigen biblioteku preuzetu s: http://eigen.tuxfamily.org/index.php?title=Main_Page
+
+		-biblioteka sadržava opæe funkcije za rad s matricama
+
+Kako bi pokrenuli aplikaciju otvorite Racunanje MinPol (application)
+
+Aplikacija je pisana u Dev-C++ alatu te C++ programskom jeziku
+
+Kratak opis: 
+	- za ulaz prima kvadratnu matricu, max reda 5, a min reda 2
+	- za izlaz ispisuje dobivenu 0-matricu te odreðeni minimalni polinom unesene matrice
